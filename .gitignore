@@ -1,0 +1,10 @@
+# Node modules
+Frontend/client/node_modules/
+Backend/node_modules/
+
+# Env files
+Frontend/client/.env
+Backend/.env
+
+# Logs
+*.log
